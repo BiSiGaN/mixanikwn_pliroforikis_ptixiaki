@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<plugin_manifest xmlns="http://www.elgg.org/plugin_manifest/1.8">
+    <name>Pt Register</name>
+    <author>Orestis Lenas</author>
+    <version>1.8.0</version>
+    <description>more requires data in register</description>
+    <copyright>(C)Orestis Lenas 2014</copyright>
+    <license>GNU Public License version 1</license>
+   <requires>
+		<type>elgg_version</type>
+		<version>2014010100</version>
+	</requires>
+	<screenshot>
+		<description>registration</description>
+		<path>screenshots/register-form.jpg</path>
+	</screenshot>	
+	<admin_interface>simple</admin_interface>
+	<activate_on_install>false</activate_on_install>
+</plugin_manifest>
